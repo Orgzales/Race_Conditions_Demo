@@ -1,0 +1,45 @@
+URL - Not Safe
+
+/test
+/users
+
+RaceTool attempt 1   = 
+RaceTool2 attempt 1 = 
+RaceTool attempt 2   = 
+RaceTool2 attempt 2 = 
+RaceTool attempt 3   = 
+RaceTool2 attempt 3 = 
+___________________________________________________
+
+URL - Slightly Not Safe
+
+/test_fast
+/users_fast
+
+RaceTool attempt    = 
+RaceTool2 attempt  = 
+
+RaceTool1 After just started = 
+RaceTool2 After just started = 
+
+Race tool 1 Accounts attempt 1 = 
+Race tool 2 Accounts attempt 1 = 
+
+Race tool 1 Accounts attempt 2 = 
+Race tool 2 Accounts attempt 2 = 
+
+___________________________________________________
+URL - Safe & Fixed
+
+/test_fixed
+/users_fixed
+
+RaceTool attempt 1   = 
+RaceTool2 attempt 1 = 
+RaceTool attempt 2   = 
+RaceTool2 attempt 2 = 
+RaceTool attempt 3   = 
+RaceTool2 attempt 3 = 
+___________________________________________________
+URL - Reset Database
+/logout
